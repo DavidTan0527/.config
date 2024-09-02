@@ -1,0 +1,24 @@
+.DS_Store
+.git
+.mono
+ILOVEPDF
+ILSpy.xml
+Microsoft\\VisualStudio\ Services
+NuGet
+bat
+binwalk
+coc
+configstore
+fish
+flutter
+gatsby
+gcloud
+github-copilot
+gtk-2.0
+iterm2
+karabiner
+libvirt
+stetic
+tags*
+wireshark
+xbuild

@@ -1,5 +1,6 @@
 require("plugins.autoclose")
 require("plugins.catppuccin")
+require("plugins.commentary")
 require("plugins.feline")
 require("plugins.gitsigns")
 require("plugins.image")

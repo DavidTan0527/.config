@@ -159,3 +159,8 @@ vim.cmd [[
     autocmd FileType dart setlocal shiftwidth=2 tabstop=2 softtabstop=2
 ]]
 
+
+vim.cmd [[
+  autocmd FileWriteCmd,BufWriteCmd *.dart !dart format %:p
+]]
+
